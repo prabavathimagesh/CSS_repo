@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+} 
+ 
+ 
+ 
+ div{
+    background-color: white;
+    width: 750px;
+    height: 650px;
+    text-align: left;
+    font-size: 30px;
+    line-height: 1;
+    margin-left: 300px;
+}
+input{
+    width: 240px;
+    height: 30px;
+    margin-left: 100px;
+}
+button{
+    margin-left: 20px;
+    width: 130px;
+    height: 40px;
+    background-color: red;
+}
+i{
+    padding-left: 50px;
+}

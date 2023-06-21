@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif   
+}
+hr{
+    width: 80px;
+    height: 2.5px;
+    background-color: crimson;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+i{
+    margin: 1.5px;
+    font-size: 30px;
+}
+input{
+   text-align-last: right;
+   
+
+}
+.auto{
+   width: 250px;
+   height:40px ;
+   text-align: right;
+    
+}
+div{
+  margin-left: 150px;
+}
+button{
+    background-color: red;
+    width: 80px;
+    height: 10pxpx;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+H1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+div{
+    background-color: gray;
+    height: 260px;
+    width: 400px;
+    margin: 30px;
+
+}
+i{
+    font-size: 60px;
+    margin: 3px;
+    
+}

@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(144, 144, 236);
+}
+div{
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+     
+}
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+#log{
+    background-color: blue;
+    width:150px ;
+    height:40px ;
+    font-size: 40px;
+    
+   
+}
+#log1{
+    background-color: lightseagreen;
+    width:150px ;
+    height:40px ;
+    font-size: 40px;
+    
+}
+#log2{
+    background-color: orangered;
+    width:150px ;
+    height:40px ;
+    font-size: 40px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    width: 450px;
+    height: 1px;
+}
+#text{
+    width: 450px;
+    height: 30px;
+}
+button{
+    background-color: brown;
+    width: 450px;
+    height: 30px;
+
+}
