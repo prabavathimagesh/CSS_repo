@@ -1,0 +1,8 @@
+ul li:first-child{
+    color: red;
+    list-style-type: disc;
+    text-size-adjust: 1px;
+}
+div{
+    background-color: sandybrown;
+}

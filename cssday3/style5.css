@@ -1,0 +1,16 @@
+body{
+    width: 700px;
+}
+h1{
+    text-shadow: 50px;
+
+}
+input{
+    color: skyblue;
+    width: 250px; 
+    height: 50px;
+}
+input::after{
+    content:"placeholder";
+    color: blue;
+}

@@ -1,0 +1,16 @@
+body{
+    width: 700px;
+}
+p::before{
+    content:"Before";
+    font-size: 30px;
+    color: red;      
+}
+p::after{
+    content: "After";
+    font-size: 30px;
+    color: red;
+}
+p{
+    font-size: 20px;
+}

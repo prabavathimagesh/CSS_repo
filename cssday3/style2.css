@@ -1,0 +1,8 @@
+.para::first-letter{
+    color: white;
+    background-color: black;
+    box-shadow: 5px 5px 2.5px red;
+    margin-left: 50px;
+    font-size: 50px;
+}
+  
