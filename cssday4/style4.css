@@ -1,0 +1,47 @@
+body{
+    background-color: #d0dbe1;
+}
+div{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 20px;
+    margin-top: 100px;
+    border-radius: 10%;
+    box-shadow: 5px 5px 15px black;;
+}
+.Top_Heading{
+    margin-left: 50px;
+    margin-top: 65px;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: left;
+}
+i{
+    font-size: 50px;
+    padding-left: 80px;
+}
+
+p{
+    text-align: justify;
+    max-width: 300px;
+    padding-left: 50px;
+}
+hr{
+    margin-top: 50px;
+    width: 300px;
+    height: 25px;
+   background-color: yellow ;
+}
+#line{
+    width: 300px;
+    height: 25px;
+    background-color: blue;
+}
+#line2{
+    width: 300px;
+    height: 25px;
+    background-color:green;
+
+}
