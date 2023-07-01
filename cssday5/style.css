@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+thead{
+    color: white;
+    background-color: rgb(9, 236, 149);
+    border-collapse: collapse;
+}
+table,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+   
+}
+th,td{
+    padding: 10px 30px 10px 30px;
+    
+}
+table{
+    position: relative;
+    top: 150px;
+    font-size: 40px;
+    border-top-left-radius: 10px;
+   
+}
+tr:nth-child(2){
+    background-color: gray;
+    color: rgb(9, 236, 149) ;
+}
+tr:hover{
+     color: rgb(9, 236, 149) ;
+}
+th:nth-child(1){
+   border-top-left-radius: 10px;
+
+}
+
+
